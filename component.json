@@ -1,0 +1,19 @@
+{
+  "name": "string-scanner",
+  "repo": "matthewmueller/string-scanner",
+  "description": "scan through text",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/reverse": "0.0.1",
+    "matthewmueller/reverse-regex": "0.0.2"
+  },
+  "development": {
+    "component/assert": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

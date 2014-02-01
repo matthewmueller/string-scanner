@@ -1,0 +1,19 @@
+{
+  "name": "string-scanner",
+  "version": "0.0.1",
+  "description": "scan through text strings",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "strings",
+    "scanner",
+    "tokens"
+  ],
+  "author": "Matthew Mueller",
+  "license": "MIT"
+}
