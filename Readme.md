@@ -5,7 +5,11 @@
 
 ## Installation
 
-  Install with [component(1)](http://component.io):
+  In node.js:
+
+    $ npm install string-scanner
+
+  In the browser (with [component](http://component.io)):
 
     $ component install matthewmueller/string-scanner
 
