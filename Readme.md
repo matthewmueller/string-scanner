@@ -1,7 +1,7 @@
 
 # string-scanner
 
-  scan through strings
+  scan through strings. supports forwards and backwards scanning.
 
 ## Installation
 
