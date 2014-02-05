@@ -3,7 +3,7 @@
  */
 
 var assert = require('assert');
-var scanner = require('text-scanner');
+var scanner = require('string-scanner');
 
 /**
  * Tests
