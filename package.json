@@ -15,5 +15,9 @@
     "tokens"
   ],
   "author": "Matthew Mueller",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "reverse-regex": "0.0.2",
+    "reverse-component": "0.0.1"
+  }
 }

@@ -3,8 +3,13 @@
  */
 
 var reverse = {};
-reverse.string = require('reverse');
 reverse.regex = require('reverse-regex');
+
+try {
+  reverse.string = require('reverse');
+} catch (e) {
+  reverse.string = require('reverse-component');
+}
 
 /**
  * Export `Scanner`
