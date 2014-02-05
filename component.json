@@ -2,7 +2,7 @@
   "name": "string-scanner",
   "repo": "matthewmueller/string-scanner",
   "description": "scan through text",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [],
   "dependencies": {
     "component/reverse": "0.0.1",
