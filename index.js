@@ -4,12 +4,7 @@
 
 var reverse = {};
 reverse.regex = require('reverse-regex');
-
-try {
-  reverse.string = require('reverse');
-} catch (e) {
-  reverse.string = require('reverse-component');
-}
+reverse.string = require('reverse');
 
 /**
  * Export `Scanner`
