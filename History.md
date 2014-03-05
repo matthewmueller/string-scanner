@@ -1,11 +1,13 @@
 
-0.0.2 / 2014-02-05
+0.0.2 / 2014-03-05 
 ==================
 
- * fixed for node
- * fixed tests
+  * core: jshint
+  * use component-reverse
+  * fixed for node
+  * fixed tests
 
 0.0.1 / 2014-02-01
 ==================
 
- * Initial commit
+  * Initial commit
