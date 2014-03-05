@@ -41,7 +41,7 @@ Scanner.prototype.cursor = function(i) {
 
 Scanner.prototype.match = function() {
   return this.m;
-}
+};
 
 /**
  * Move offset to the first
@@ -83,7 +83,7 @@ Scanner.prototype.next = function(expr, n) {
 
   var dx = m.index + m[0].length;
   if (peaking) this.po += dx;
-  else this.offset += dx
+  else this.offset += dx;
 
   var out = m[0];
   while (--n) out = this.next(expr, false);
@@ -143,4 +143,4 @@ Scanner.prototype.peak = function(expr, n) {
 
   this.peaking = false;
   return out;
-}
+};
