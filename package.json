@@ -1,6 +1,6 @@
 {
   "name": "string-scanner",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "scan through text strings",
   "main": "index.js",
   "directories": {
